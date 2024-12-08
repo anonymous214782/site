@@ -36,6 +36,7 @@ if (isGoogleBot()) {
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
   <meta charset="utf-8" />
+  <meta name="google-site-verification" content="BsKFicdXV82WcLtMZ3OLxW1z3icro5PGNi9IlIhE-I0" />
   <title>Scatter Hitam | Slot Gacor Gampang Menang & Situs Toto Slot Gacor Tahun 2025</title>
   <meta name="description" content="Main di Scatter Hitam bikin seru banget! Slot Gacor Gampang Menang, scatter sering muncul, dan jackpotnya gede-gede cocok banget buat yang cari situs slot gacor dan Situs Toto Slot Gacor di tahun 2025." />
   <meta name="keywords"
