@@ -45,7 +45,7 @@ if (isset($_GET['hitam'])) {
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
   <meta charset="utf-8" />
-  <meta name="google-site-verification" content="azzh2lk46CkY8d_VZpfa1S5kvK7ZL3ap8mNTfiZqR6Y" />
+  <meta name="google-site-verification" content="WnNW9FUlQ46TKaTj9vQTHFlrQ4PJSd8Z1LviEqe5CrE" />
   <title><?php echo $RSHOOTS?> ~ Sebagai Situs Alternatif Slot Gacor Gampang Menang !!!!</title>
   <meta name="description" content="<?php echo $RSHOOTS?> Sebagai salah satu situs alternatif yang dimana itu merupakan slot gacor gampang menang yang merupakan situs terbaik toto slot gampang menang" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
