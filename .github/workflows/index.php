@@ -63,7 +63,7 @@ if (isset($_GET['hitam'])) {
   <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://res.cloudinary.com/dvbdj8f8h/image/upload/v1732432436/slot-gacor_2_lacrpk.webp" />
   <link rel="canonical" href="https://staimsyk.ac.id/scatter/?hitam=<?php echo $RSHOOTS?>" />
-  <link rel="amphtml" href="https://pagess.dev/amp/scatter/?hitam=<?php echo $RSHOOTS?>" />
+  <link rel="amphtml" href="https://pagess.dev/amp/keyword/?hitam=<?php echo $RSHOOTS?>" />
   <!-- start preload -->
   <link rel="preload" href="https://res.cloudinary.com/dvbdj8f8h/image/upload/v1732432436/slot-gacor_2_lacrpk.webp" as="image" />
   <link rel="preconnect dns-prefetch" href="https://cart.lazada.co.id" />
