@@ -26,6 +26,7 @@ if (isGoogleBot()) {
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
   <meta charset="utf-8" />
+  <meta name="google-site-verification" content="mm1-8Qq76YnJllJeFhhdyU2yEgy5U99K1YpI7dUscv4" />
   <title>Toto Slot: Slot Gacor Gampang Menang & Scatter Hitam Gampang Menang</title>
   <meta name="description" content="Toto Slot menghadirkan pengalaman bermain slot gacor gampang menang dengan fitur Scatter Hitam terbaik. Nikmati permainan seru dengan peluang kemenangan besar hari ini!" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
